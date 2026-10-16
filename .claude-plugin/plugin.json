@@ -1,0 +1,14 @@
+{
+  "name": "business-problem-toolkit",
+  "displayName": "Business Problem Toolkit",
+  "version": "1.2.0",
+  "author": {
+    "name": "Dan Reno",
+    "url": "https://github.com/drv3nkman"
+  },
+  "description": "Find, choose and frame business problems before designing solutions, in Claude Code and Cowork. Draws on Marty Cagan's product-discovery writing; it is not Cagan's own tool, its templates are derived, and methods from outside Cagan are labelled.",
+  "homepage": "https://github.com/drv3nkman/business-problem-toolkit",
+  "repository": "https://github.com/drv3nkman/business-problem-toolkit",
+  "license": "MIT",
+  "keywords": ["product-management", "problem-definition", "discovery", "okr", "cagan", "product-strategy"]
+}
