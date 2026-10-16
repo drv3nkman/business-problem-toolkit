@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Business Problem Toolkit">
+  <rect width="512" height="512" rx="96" fill="#1F3A5F"/>
+  <circle cx="232" cy="232" r="112" fill="none" stroke="#F4F1EA" stroke-width="36"/>
+  <line x1="314" y1="314" x2="392" y2="392" stroke="#F4F1EA" stroke-width="40" stroke-linecap="round"/>
+  <text x="232" y="276" text-anchor="middle" font-family="Georgia, serif" font-size="136" font-weight="700" fill="#E8A33D">?</text>
+</svg>

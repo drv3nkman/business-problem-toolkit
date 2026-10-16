@@ -10,5 +10,6 @@
   "homepage": "https://github.com/drv3nkman/business-problem-toolkit",
   "repository": "https://github.com/drv3nkman/business-problem-toolkit",
   "license": "MIT",
+  "icon": "./icon.svg",
   "keywords": ["product-management", "problem-definition", "discovery", "okr", "cagan", "product-strategy"]
 }
